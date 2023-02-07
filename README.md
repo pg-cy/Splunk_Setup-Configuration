@@ -5,7 +5,7 @@
 
 ## Download Splunk from the official site
     
-- Youll need to create an account and login in order to download splunk from the website. From the downloads page, download the .deb file for Linux.
+- On Splunks official website you'll need to create an account and login in order to download splunk. From the downloads page, download the .deb file for Linux.
 `https://www.splunk.com/en_us/download/splunk-enterprise.html`
 
 - On your system, Create a splunk user. Well use this user to start splunk <br>
