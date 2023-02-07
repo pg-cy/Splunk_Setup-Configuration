@@ -28,7 +28,7 @@
 
 <br>
 
-- After finishing the setup, switch to root user and enable splunk to boot up when system restarts. <br>
+- After finishing the setup, switch to root user and enable splunk to boot up when system restarts. Then switch back to splunk user. <br>
 ![Alt text](Images/enable-boot-startup.png)
 
 > ## Troubleshooting
